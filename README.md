@@ -53,4 +53,4 @@ python3 test_users_bot.py
 
 ## Автор
 
-Карташов Матвей ([@funckap](https://t.me/funckap))
+Карташов Матвей ([@funckup](https://t.me/funckup))
