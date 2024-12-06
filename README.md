@@ -8,11 +8,11 @@
 
 Стартовое меню:
 
-![image]()
+![image](https://github.com/ffflicker/tg_test_users/blob/main/menu.png)
 
 После выбора количества пользователей:
 
-![image]()
+![image](https://github.com/ffflicker/tg_test_users/blob/main/generate.png)
 
 ## 💻 Технологии
 
